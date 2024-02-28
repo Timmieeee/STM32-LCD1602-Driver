@@ -1,0 +1,12 @@
+../Core/Src/lcd1602driver.c:7:6:LCD_WriteCom	16	static
+../Core/Src/lcd1602driver.c:29:6:LCD_WriteData	16	static
+../Core/Src/lcd1602driver.c:51:6:LCD_Clear	8	static
+../Core/Src/lcd1602driver.c:59:6:LCD_Return	8	static
+../Core/Src/lcd1602driver.c:73:6:LCD_SetInputMode	16	static
+../Core/Src/lcd1602driver.c:84:6:LCD_SetDisplayMode	16	static
+../Core/Src/lcd1602driver.c:94:6:LCD_Movement	16	static
+../Core/Src/lcd1602driver.c:111:6:LCD_SetFunction	16	static
+../Core/Src/lcd1602driver.c:121:7:LCD_SetCGRAM	16	static
+../Core/Src/lcd1602driver.c:139:7:LCD_SetDDRAM	16	static
+../Core/Src/lcd1602driver.c:170:6:LCD_Init	24	static
+../Core/Src/lcd1602driver.c:186:6:LCD_AutoInit	8	static
